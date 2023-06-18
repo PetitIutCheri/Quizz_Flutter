@@ -1,4 +1,5 @@
 class QuizzName {
-  static const String home = '/home_page';
-  static const String detail = '/detail_page';
+  static const String home = '/accueil';
+  static const String leQuizz = '/quizz_page';
+  static const String fin = '/finQuizz';
 }
